@@ -1,0 +1,6 @@
+CREATE TABLE <nometabela>
+(
+<nomecampo1> <TIPO> <NOT NULL???>,
+<nomecampo2> <TIPO> <NOT NULL???>,
+<nomecampo3> <TIPO> <NOT NULL???>,
+);

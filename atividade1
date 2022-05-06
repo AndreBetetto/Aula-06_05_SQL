@@ -1,0 +1,10 @@
+create table veiculos(
+    id_veiculo int8 not null primary key,
+    modelo varchar(80) not null,
+    placa varchar(12) not null,
+    ano int2 null,
+    valor numeric(15,2)
+);
+
+insert into veiculo(id_veiculo, modelo, placa, ano, valor)
+    values(1, "gol", "abc-1234", 2011, 60.000);

@@ -1,0 +1,10 @@
+CREATE TABLE categorias
+(
+codigo int not null,
+descricao varchar(70),
+CONSTRAINT pk_categorias PRIMARY KEY (codigo) //Declaração separada dos campos
+
+//pk_categorias ==> Nome da CONSTRAINT
+//codigo ==> colunas da tabela, se + de uma, separá-las por vírgula
+
+)
