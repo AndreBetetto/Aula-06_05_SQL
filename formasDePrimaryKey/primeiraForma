@@ -1,0 +1,5 @@
+CREATE TABLE categorias //Na frente do campo alvo
+(
+codigo int not null PRIMARY KEY, //Na frente do campo alvo
+descricao varchar(70)
+)

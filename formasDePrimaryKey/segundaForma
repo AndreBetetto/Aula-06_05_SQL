@@ -1,4 +1,4 @@
-CREATE TABLE categorias
+CREATE TABLE categorias //Declaração separada dos campos
 (
 codigo int not null,
 descricao varchar(70),
