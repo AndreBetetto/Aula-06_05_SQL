@@ -1,0 +1,3 @@
+SELECT * FROM cargos
+
+DELETE FROM cargos WHERE codigo = 1

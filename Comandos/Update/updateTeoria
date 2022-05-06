@@ -1,0 +1,7 @@
+Comando que serve para atualizar informações da tabela:
+
+SINTAXE:
+
+UPDATE <TABELA>
+SET <VALORES>
+WHERE <CONDIÇÃO>

@@ -1,0 +1,6 @@
+Comando que serve para excluir/deletar informações da tabela.
+
+SINTAXE:
+
+DELETE FROM <TABELA>
+WHERE <CONDIÇÃO>

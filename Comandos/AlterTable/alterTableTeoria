@@ -1,0 +1,8 @@
+É o comando utilizado para modificarmos a estrutura da tabela.
+
+Com esse comando podemos:
+• Adicionar/Remover coluna
+• Adicionar/Remover restrição (constraint)
+• Mudar tipo de dado de coluna
+• Mudar nome de coluna ou da tabela
+• Mudar valor padrão

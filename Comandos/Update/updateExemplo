@@ -1,0 +1,9 @@
+SELECT * FROM cargos WHERE codigo = 3
+
+UPDATE cargos
+SET nome = 'Gerente de Projetos',
+flag = 0
+WHERE codigo = 3
+
+//Em seguida, utilize SELECT * FROM cargos WHERE codigo = 3 para ver os 
+//resultados.

@@ -1,0 +1,8 @@
+CREATE TABLE pessoas
+(
+codigo INT NOT NULL PRIMARY KEY,
+nome varchar(50) NOT NULL,
+altura numeric(10, 2),
+excluido boolean,
+datanascimento date
+);

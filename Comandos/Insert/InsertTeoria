@@ -1,0 +1,8 @@
+Inserir dados na tabela (ou seja, inserir linhas na tabela).
+
+SINTAXE:
+
+INSERT INTO <tabela>
+(CAMPO1, CAMPO2, CAMPO3)
+VALUES
+(VALOR1, VALOR2, VALOR3)

@@ -1,0 +1,4 @@
+INSERT INTO cargos VALUES (1, ‘Programador Jr.’, ‘TI’, ‘Desenvolvimento de
+projetos e soluções’, 1, ’31-03-2021’),
+
+//Respeite a ordem dos valores de cada coluna a serem inseridos na tabela

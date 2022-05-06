@@ -1,0 +1,6 @@
+DROP TABLE <nometabela>;
+
+ALTERNATIVA**: //Verifica se a tabela existe
+
+DROP TABLE IF EXISTS cargos;
+

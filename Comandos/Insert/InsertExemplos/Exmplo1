@@ -1,0 +1,2 @@
+INSERT INTO cargos (codigo, nome, setor, descricao) VALUES (1, ‘Programador Jr.’,
+‘TI’, ‘Desenvolvimento de projetos e soluções’)

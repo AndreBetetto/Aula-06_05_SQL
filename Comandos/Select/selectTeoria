@@ -1,0 +1,7 @@
+Comando utilizado para consultar os dados da tabela. Essa instrução permite
+diversas customizações, as quais veremos na próxima aula.
+
+SINTAXE (mais simples):
+
+SELECT <COLUNAS>
+FROM <TABELA>
