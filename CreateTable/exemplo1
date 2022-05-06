@@ -1,0 +1,9 @@
+CREATE TABLE cargos
+(
+codigo INT NOT NULL PRIMARY KEY, /*Primary key --> Chave Primária Usamos para informar que a combinação de um ou mais campos não se repete
+na tabela. Além disso, podemos utilizá-la depois no relacionamento entre as tabelas, garantindo a
+integridade dos dados.*/
+
+descricao VARCHAR(50) NOT NULL,
+classe CHAR(1)
+);

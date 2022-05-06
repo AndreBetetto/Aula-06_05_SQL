@@ -1,0 +1,11 @@
+CREATE TABLE categorias //Separado do comando de criação de tabela
+(
+codigo int not null,
+descricao varchar(70)
+);
+
+ALTER TABLE categorias
+ADD CONSTRAINT pk_categorias PRIMARY KEY (codigo); //Separado do comando de criação de tabela
+
+//pk_categorias ==> Nome da CONSTRAINT
+//codigo ==> colunas da tabela, se + de uma, separá-las por vírgula
