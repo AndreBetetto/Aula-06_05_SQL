@@ -1,0 +1,15 @@
+CREATE TABLE funcionarios(
+    id_funcionario serial not null,
+    nome varchar(80) not null, 
+    sobrenome varchar(30) not null,
+    idade int2 not null,
+    departamento varchar(30) not null,
+    salario numeric(15,2) not null,
+    ddd int2 not null,
+    telefone varchar(10) not null
+);
+
+insert into funcionarios(id_funcionario, nome, sobrenome, idade, departamento, salario, ddd, telefone)
+values(001, 'André', 'Betetto', 16, 'informática', 7, 14, 996040283)
+
+G:\Meu Drive\1CTI\github\Aula-06_05_SQL\atividade2
